@@ -1,3 +1,4 @@
+<div dir="rtl">
 <div align="center">
 
 # مشروع الهوية المصرية الرقمية
@@ -85,32 +86,32 @@
 ```
 /Egypt-Digital-ID
 │
-├── 1. Brand Identity
-│   ├── Logo
-│   ├── Typography-And-Color-Palette
-│   └── Brand-Guidelines.pdf
+┤── 1. Brand Identity
+│   ┤── Logo
+│   ┤── Typography-And-Color-Palette
+│   ┘── Brand-Guidelines.pdf
 │
-├── 2. Application UI-UX
-│   ├── Figma
-│   ├── Final-Screens
-│   └── Prototypes
+┤── 2. Application UI-UX
+│   ┤── Figma
+│   ┤── Final-Screens
+│   ┘── Prototypes
 │
-├── 3. Social Media Campaign
-│   ├── Mockups
-│   └── Final-Posts
+┤── 3. Social Media Campaign
+│   ┤── Mockups
+│   ┘── Final-Posts
 │
-├── 4. Final Presentation
-│   └── Presentation.pdf
+┤── 4. Final Presentation
+│   ┘── Presentation.pdf
 │
-└── README.md
+┘── README.md
 ```
 
 ## فريق العمل (The Team)
-عبدالله محمد عبدالفضيل – قائد الفريق ومسؤول التخطيط والتنظيم والعرض التقديمي.
+عبدالله محمد عبدالفضيل – قائد الفريق ومسؤول التخطيط والعرض التقديمي.
 
-ندى جمعة إبراهيم – مصمم جرافيك ومسؤول واجهات وتجربة مستخدم.
+ندى جمعة إبراهيم – مصمم واجهات وتجربة مستخدم.
 
-هاجر أحمد محمد البنا – مصمم جرافيك ومسؤول واجهات وتجربة مستخدم.
+هاجر أحمد محمد البنا – مصمم واجهات وتجربة مستخدم.
 
 إيناس ندى أحمد محمد – مصمم جرافيك ومسؤول حملة السوشيال ميديا.
 
@@ -120,3 +121,4 @@
 
 ## الرؤية المستقبلية (Future Vision)
 يضع هذا المشروع أساسًا واقعيًا يمكن البناء عليه لتحويله إلى منصة حكومية فعلية في المستقبل. ومع التطور التقني المناسب، يمكن للنماذج الحالية أن تتحول إلى تطبيق موحد يسهّل حياة المواطن، ويعزز الثقة في الخدمات الرقمية، ويسهم في دعم توجه الدولة نحو التحول الرقمي الشامل.
+</div>
