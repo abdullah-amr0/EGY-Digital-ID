@@ -85,24 +85,31 @@
 
 ## بنية المشروع (Repository Structure)
 ```
-/Egypt-Digital-ID
+/الهوية المصرية الرقمية
 │
 ┤── 1. Brand Identity
-│   ┤── Logo
-│   ┤── Typography-And-Color-Palette
-│   ┘── Brand-Guidelines.pdf
+│   ┤── Brand Guidelines.pdf
+│   ┤── Logo versions.rar
+│   ┘── Logo Creation.rar
+│   ┘── mood board.rar
+│   ┘── pattern.rar
+│   ┘── Egyptian digital ID Swatches.ase
+│   ┘── Fonts.rar
 │
-┤── 2. Application UI-UX
-│   ┤── Figma
-│   ┤── Final-Screens
-│   ┘── Prototypes
+┤── 2. App UI
+│   ┤── Egyptian Digital ID source.fig
+│   ┤── Final-Screens.rar
+│   ┘── prototype link.txt
+│   ┘── prototype qr-code.png
 │
 ┤── 3. Social Media Campaign
 │   ┤── Mockups
-│   ┘── Final-Posts
+│   ┘── jpg.rar
 │
 ┤── 4. Final Presentation
+│   ┘── Presentation Canva Link
 │   ┘── Presentation.pdf
+│   ┘── Presentation.mp4
 │
 ┘── README.md
 ```
