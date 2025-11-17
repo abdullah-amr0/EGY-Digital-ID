@@ -78,9 +78,9 @@
 - عرض تقديمي شامل للعمل.
 
 ## الأدوات المستخدمة (Tools Used)
-- Figma
 - Adobe Photoshop
 - Adobe Illustrator
+- Figma
 - Canva
 
 ## بنية المشروع (Repository Structure)
