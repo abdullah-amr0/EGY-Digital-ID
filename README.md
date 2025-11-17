@@ -85,7 +85,7 @@
 
 ## بنية المشروع (Repository Structure)
 ```
-/الهوية المصرية الرقمية
+الهوية المصرية الرقمية
 │
 ┤── 1. Brand Identity
 │   ┤── Brand Guidelines.pdf
